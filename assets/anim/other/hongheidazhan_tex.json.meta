@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ed0f86ac-3333-478e-9c3b-098480b6c22d",
+  "atlasJson": "{\"width\":256,\"imagePath\":\"hongheidazhan_tex.png\",\"height\":256,\"name\":\"hongheidazhan\",\"SubTexture\":[{\"width\":90,\"y\":1,\"height\":144,\"name\":\"王后 胳膊_1\",\"x\":114},{\"width\":111,\"y\":1,\"height\":177,\"name\":\"王后_1\",\"x\":1},{\"width\":69,\"y\":147,\"height\":65,\"name\":\"王后手\",\"x\":114}]}",
+  "texture": "9c425bb0-e639-4326-acdd-a2adc99a8b7f",
+  "subMetas": {}
+}

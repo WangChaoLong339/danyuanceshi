@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "58834c72-e4ce-4047-96b9-5d0321be93c1",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"hongheiKING_tex.png\",\"height\":256,\"name\":\"hongheiKING\",\"SubTexture\":[{\"width\":156,\"y\":1,\"height\":90,\"name\":\"男-身体\",\"x\":153},{\"width\":150,\"y\":1,\"height\":187,\"name\":\"男-头\",\"x\":1},{\"width\":85,\"y\":1,\"height\":101,\"name\":\"男-手\",\"x\":311},{\"width\":36,\"y\":93,\"height\":60,\"name\":\"男-飘带\",\"x\":153},{\"width\":37,\"y\":93,\"height\":28,\"name\":\"男-衣圈\",\"x\":191}]}",
+  "texture": "0559b700-43b9-4d8d-bcc3-375157cb2c99",
+  "subMetas": {}
+}
